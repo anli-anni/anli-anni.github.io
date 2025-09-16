@@ -11,6 +11,8 @@ I am an Assistant Professor at UNC-Charlotte. I received a PhD degree at the Con
 <font color="red">I am actively looking for PhD students working in optimal control. </font>
 
 
+
+
 ## Research Interest
 
 - **Control Theory:** Optimal control
