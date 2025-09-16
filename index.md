@@ -8,6 +8,8 @@ layout: homepage
 
 I am an Assistant Professor at UNC-Charlotte. I received a PhD degree at the Control and Optimization of Discrete Event Systems (CODES) Laboratory of Boston University advised by Prof. Christos G. Cassandras, and I got my Master degree at Applied Mathematics in 2020 from Tongji University. 
 
+<font color="red">I am actively looking for PhD students working in optimal control. </font>
+
 
 ## Research Interest
 
