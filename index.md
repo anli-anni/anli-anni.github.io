@@ -34,7 +34,7 @@ I am an Assistant Professor at UNC-Charlotte. I received a PhD degree at the Con
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/publications.md %}
+{ include_relative _includes/publications.md }
 
 {% include_relative _includes/teaching.md %}
 
