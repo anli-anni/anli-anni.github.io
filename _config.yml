@@ -5,7 +5,7 @@ affiliation: University of North Carolina at Charlotte
 subaffiliation: 
 affiliation_link: https://ece.charlotte.edu/people/anni-li-ph-d/
 subaffiliation_link: 
-affiliation_logo: ./assets/img/spinion.svg
+affiliation_logo: 
 email: ali20 (at) charlotte.edu
 email2: anni.li (at) charlotte.edu
 address: EPIC, 8700 Phillips Rd, Charlotte, NC 28223
@@ -30,9 +30,9 @@ linkedin:
 researchgate: 
 
 # Images 
-avatar: ./assets/img/anni.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: ./assets/img/anni_photo.jpg
+favicon: ./assets/img/anni_photo.jpg
+favicon_dark: ./assets/img/anni_photo.jpg
 
 # Footnotes
 # Footnote
