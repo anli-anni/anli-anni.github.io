@@ -4,6 +4,6 @@
 
 <ul>
 <div>
-<li><strong>[SEP. 2023]</strong> System Analysis I, 2025 Fall. </li>	
+<li><strong>[Fall, 2025]</strong> System Analysis I. </li>	
 </div>
 </ul>
