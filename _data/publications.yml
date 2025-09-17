@@ -1,12 +1,56 @@
 main:
 
-  - title: Multi-target electrochemical malaria aptasensor on flexible multielectrode arrays for detection in malaria parasite blood samples
-    authors: Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Lei Zhou, Yuting Zhang, Young Lo, Julian Alexander Tanner, Andrea Kreidenweiss, Andreas Offenhäusser, Dirk Mayer
-    conference_short: Sens. Actuators B Chem.
-    conference: Sensors and Actuators B Chemical
-    pdf: ./assets/files/multi.pdf
-    page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
-    bibtex: ./assets/files/multi.txt
-    image: ./assets/files/multi.jpg
-    citation: sf-0AGoAAAAJ:u5HHmVD_uO8C
-    notes: Published
+  - title: Robust optimal lane-changing control for Connected Autonomous Vehicles in mixed traffic
+    authors: Li, A., Armijos, A.S.C. and Cassandras, C.G.
+    conference_short: 
+    conference: Automatica
+    pdf: 
+    page: https://www.sciencedirect.com/science/article/abs/pii/S0005109825000603
+    bibtex: 
+    image: 
+    citation: H8o3cX8AAAAJ:15073583527073380731
+    notes: Published 174, p. 112169, 2025
+
+- title: Cooperative energy and time-optimal lane change maneuvers with minimal highway traffic disruption
+    authors: Armijos, A.S.C., Li, A., Cassandras, C.G., Al-Nadawi, Y.K. Araki, H., Chalaki, B., Moradi-Pari, E., Mahjoub, H.N. and Tadiparthi, V.
+    conference_short: 
+    conference: Automatica
+    pdf: 
+    page: https://www.sciencedirect.com/science/article/abs/pii/S0005109824001444
+    bibtex: 
+    image: 
+    citation: 
+    notes: Published 165, p. 111651, 2024
+
+- title: Toward model-free safety-critical control with humans in the loop
+    authors: Xiao, W., Li, A., Cassandras, C.G. and Belta, C.
+    conference_short: ARC
+    conference: Annual Reviews in Control
+    pdf: 
+    page: https://www.sciencedirect.com/science/article/abs/pii/S1367578824000130
+    bibtex: 
+    image: 
+    citation: 
+    notes: Published 57, p. 100944, 2024
+
+- title: Cooperative lane changing in mixed traffic can be robust to human driver behavior
+    authors: Li, A., Armijos, A.S.C. and Cassandras, C.G.
+    conference_short: CDC
+    conference: 2023 62nd IEEE Conference on Decision and Control
+    pdf: 
+    page: 
+    bibtex: 
+    image: 
+    citation: 
+    notes: Published pp. 5123-5128, 2023
+
+- title: Safe optimal interactions between automated and human-driven vehicles in mixed traffic with event-triggered control barrier functions
+    authors: Li, A., Cassandras, C.G. and Xiao, W.
+    conference_short: ACC
+    conference: 2024 American Control Conference 
+    pdf: 
+    page: 
+    bibtex: 
+    image: 
+    citation: 
+    notes: Published pp. 1455-1460, 2023
